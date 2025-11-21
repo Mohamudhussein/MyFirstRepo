@@ -1,3 +1,3 @@
-﻿This is what I have learned so far in the course.
-So far in this course, I have learned the basics of Git and GitHub, including how to create repositories, clone them locally, make changes, commit those changes, and push them back to GitHub. I also learned how to set up SSH authentication for a permanent connection between my local machine and GitHub. Additionally, I have practiced creating and managing files in a repository and understanding how version control helps track changes and collaborate effectively on projects.
+What I have learned from this course: 
 
+So far, I have learned how to use Git and GitHub to manage projects, including creating repositories, cloning them locally, adding and committing files, and pushing changes to GitHub. I also learned how to set up SSH authentication for a permanent connection between my machine and GitHub, and how version control helps track changes efficiently.
